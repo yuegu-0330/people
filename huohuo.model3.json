@@ -20,11 +20,19 @@
 			"TapBody": [
 				{"File": "linghun.motion3.json"}
 			],
-			"IdleSleep": [
-				{"File": "keshui.motion3.json"},
+			"Standby5": [
+				{"File": "keshui.motion3.json"}
+			],
+			"Standby10": [
 				{"File": "zhentou.motion3.json"}
 			]
-		}
+		},
+		"Expressions": [
+			{
+				"Name": "baozhen",
+				"File": "baozhen.exp3.json"
+			}
+		]
 	},
 	"Groups": [
 		{
